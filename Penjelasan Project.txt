@@ -1,0 +1,1 @@
+Ini adalah penjelasan Project yang saya buat. Project saya kali ini adalah tentang pembuatan game iseng-iseng yang saya buat dengan menggunakan bahasa C dan juga Project ini adalah Course Online dari final Project yang diberikan Course Online tersebut
